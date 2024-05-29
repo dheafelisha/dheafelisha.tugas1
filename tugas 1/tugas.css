@@ -1,0 +1,54 @@
+body{
+    background: pink;
+}
+
+.judul{
+    display: flex;
+    background-color: rgb(127, 162, 226);
+}
+
+.teks{
+    margin-left: 2%;
+}
+
+.ampera{
+    margin-bottom: 0;
+}
+
+.Satu {
+    color: fuchsia;
+    margin: 20px;
+    width: 80%;
+    text-align: justify;
+}
+
+.Dua {color: hotpink;
+    margin: 20px;
+    width: 80%;
+    text-align: justify;
+}
+
+.Tiga {
+    color: darkviolet;
+    margin: 20px;
+    width: 80%;
+    text-align: justify;
+}
+
+.Empat {
+    color: deeppink;
+    margin:20px ;
+    width: 80%;
+    text-align: justify;
+}
+.gam{
+    display: flex;
+    gap: 10px;
+    margin: 20px;
+}
+.image1 {
+    width: auto;
+}
+.image2 {
+    width: auto;
+}
